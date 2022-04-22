@@ -1,4 +1,4 @@
-// SPREAD
+ SPREAD
 
 function imprimir(numero1, numero2, numero3) { 
     return console.log(numero1, numero2, numero3)
